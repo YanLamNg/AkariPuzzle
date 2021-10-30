@@ -1,0 +1,181 @@
+D:\program\Anaconda\envs\comp4190a1\python.exe C:/Users/Ian/PycharmProjects/comp4190a1/Code/Investigation_2.py
+Reading sample
+
+/*********************
+fc.solvePuzzle
+*********************/
+b # 1 # b 2 b 3 b # 1 #
+2 1 b # # # 3 b 2 # b #
+b # # # 0 # b # 0 # # b
+# b 3 b 1 # 1 # # b 1 2
+1 # b 3 # b 1 # # # 1 b
+b # 3 b # # # 1 b # 0 #
+1 2 b 4 b # # # # 0 # 1
+# b 3 b # 0 # b 2 0 # b
+# # 0 1 1 # b 4 b # # 2
+b # 0 # b # 2 b 3 # # b
+2 # # b # 1 # # b 3 b 3
+b 2 b 2 # b # 0 2 b 3 b
+puzzle solved.
+total steps: 39
+execution time: 1.7523915767669678
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+b # 1 # b 2 b 3 b # 1 #
+2 1 b # # # 3 b 2 # b #
+b # # # 0 # b # 0 # # b
+# b 3 b 1 # 1 # # b 1 2
+1 # b 3 # b 1 # # # 1 b
+b # 3 b # # # 1 b # 0 #
+1 2 b 4 b # # # # 0 # 1
+# b 3 b # 0 # b 2 0 # b
+# # 0 1 1 # b 4 b # # 2
+b # 0 # b # 2 b 3 # # b
+2 # # b # 1 # # b 3 b 3
+b 2 b 2 # b # 0 2 b 3 b
+puzzle solved.
+total steps: 39
+execution time: 1.7553448677062988
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+execution time: 60.213587522506714
+timeout
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+b # 1 # b 2 b 3 b # 1 #
+2 1 b # # # 3 b 2 # b #
+b # # # 0 # b # 0 # # b
+# b 3 b 1 # 1 # # b 1 2
+1 # b 3 # b 1 # # # 1 b
+b # 3 b # # # 1 b # 0 #
+1 2 b 4 b # # # # 0 # 1
+# b 3 b # 0 # b 2 0 # b
+# # 0 1 1 # b 4 b # # 2
+b # 0 # b # 2 b 3 # # b
+2 # # b # 1 # # b 3 b 3
+b 2 b 2 # b # 0 2 b 3 b
+puzzle solved.
+total steps: 39
+execution time: 1.8575835227966309
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+execution time: 60.21927356719971
+timeout
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+execution time: 60.21581196784973
+timeout
+Reading sample
+
+/*********************
+fc.solvePuzzle
+*********************/
+execution time: 60.17596936225891
+timeout
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+b 2 # # # # # # b 2 b #
+2 b # # # # # # # # # #
+# # b 2 # # b # 0 # # #
+b # 3 b # # # # # # # #
+1 # b 2 # # # # # b 1 #
+# # # # 2 b # # # 1 # b
+# # # # b 3 # 1 b # # 1
+# # # # 2 b # # # # 1 0
+# # # # # # # # # # b 2
+b 2 # # b 1 # # # # # b
+3 b 2 b # # # # 2 b # #
+b # # # # # # 1 b # # #
+puzzle solved.
+total steps: 74
+execution time: 2.1538217067718506
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+execution time: 60.207011699676514
+timeout
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+C:\Users\Ian\PycharmProjects\comp4190a1\Code\Forward_H3.py:58: RuntimeWarning: invalid value encountered in true_divide
+  normalized_v = edge_num_arr / np.sqrt(np.sum(edge_num_arr**2))
+execution time: 60.18822908401489
+timeout
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+execution time: 60.190972566604614
+timeout
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+execution time: 60.21849250793457
+timeout
+Reading sample
+
+/*********************
+fc.solvePuzzle
+*********************/
+execution time: 60.05193018913269
+timeout
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+execution time: 60.05646634101868
+timeout
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+execution time: 60.01871418952942
+timeout
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+b # # # # # # # # # # 0
+2 b # # # # # # # # # #
+# # b # # # # # 0 # # b
+# # 3 b # # # # # # # #
+# # b # # # # # # 1 # #
+# # # # # # b 1 # b # #
+# # # # b # # # # # # 1
+# # # # # b # # # 0 # b
+# # # # # # # # # # b 2
+b # 0 # # # # # b # # #
+2 # # # # # # b # # # #
+b # # # # # # 1 # b # #
+puzzle solved.
+total steps: 17
+execution time: 2.585517644882202
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+execution time: 60.01344180107117
+timeout
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+execution time: 60.05041170120239
+timeout
+
+Process finished with exit code 0

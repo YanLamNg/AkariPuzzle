@@ -1,0 +1,425 @@
+D:\program\Anaconda\envs\comp4190a1\python.exe C:/Users/Ian/PycharmProjects/comp4190a1/Code/Investigation_1.py
+Reading sample
+
+/*********************
+fc.solvePuzzle
+*********************/
+1 b 1 1 b 2
+1 # 0 # # b
+b # 2 b # #
+2 # b 3 # 0
+b 1 3 b 1 0
+1 # b # 0 0
+puzzle solved.
+total steps: 9
+execution time: 1.6196002960205078
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+1 b 1 1 b 2
+1 # 0 # # b
+b # 2 b # #
+2 # b 3 # 0
+b 1 3 b 1 0
+1 # b # 0 0
+puzzle solved.
+total steps: 9
+execution time: 1.6789402961730957
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+1 b 1 1 b 2
+1 # 0 # # b
+b # 2 b # #
+2 # b 3 # 0
+b 1 3 b 1 0
+1 # b # 0 0
+puzzle solved.
+total steps: 12
+execution time: 1.6704504489898682
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+1 b 1 1 b 2
+1 # 0 # # b
+b # 2 b # #
+2 # b 3 # 0
+b 1 3 b 1 0
+1 # b # 0 0
+puzzle solved.
+total steps: 9
+execution time: 1.6882688999176025
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+**************
+1 b 1 1 b 2
+1 # 0 # # b
+b # 2 b # #
+2 # b 3 # 0
+b 1 3 b 1 0
+1 # b # 0 0
+puzzle solved.
+total number of nodes visited: 6697
+execution time: 4.4192116260528564
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+**************
+1 b 1 1 b 2
+1 # 0 # # b
+b # 2 b # #
+2 # b 3 # 0
+b 1 3 b 1 0
+1 # b # 0 0
+puzzle solved.
+total number of nodes visited: 1660
+execution time: 2.7836925983428955
+
+/*********************
+fc.solvePuzzle
+*********************/
+b 2 b 2 b # 0 #
+# # 1 0 3 b 1 #
+1 b 2 # b 3 0 #
+# 2 b 2 2 b 3 b
+b 2 2 b 1 3 b 3
+# b 1 1 1 b 4 b
+0 # # 0 1 # b 3
+# # b 2 b 1 2 b
+puzzle solved.
+total steps: 19
+execution time: 1.6392569541931152
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+b 2 b 2 b # 0 #
+# # 1 0 3 b 1 #
+1 b 2 # b 3 0 #
+# 2 b 2 2 b 3 b
+b 2 2 b 1 3 b 3
+# b 1 1 1 b 4 b
+0 # # 0 1 # b 3
+# # b 2 b 1 2 b
+puzzle solved.
+total steps: 19
+execution time: 1.6546378135681152
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+b 2 b 2 b # 0 #
+# # 1 0 3 b 1 #
+1 b 2 # b 3 0 #
+# 2 b 2 2 b 3 b
+b 2 2 b 1 3 b 3
+# b 1 1 1 b 4 b
+0 # # 0 1 # b 3
+# # b 2 b 1 2 b
+puzzle solved.
+total steps: 34
+execution time: 1.6623077392578125
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+b 2 b 2 b # 0 #
+# # 1 0 3 b 1 #
+1 b 2 # b 3 0 #
+# 2 b 2 2 b 3 b
+b 2 2 b 1 3 b 3
+# b 1 1 1 b 4 b
+0 # # 0 1 # b 3
+# # b 2 b 1 2 b
+puzzle solved.
+total steps: 19
+execution time: 1.6516504287719727
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+execution time: 60.04141163825989
+timeout
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+execution time: 60.01714563369751
+timeout
+
+/*********************
+fc.solvePuzzle
+*********************/
+0 # # # # # # # # b
+# 1 b 2 b 1 1 b 2 1
+b 1 2 0 # 1 # # b #
+2 # b 1 # b # # 3 b
+b # # # # 1 # # b #
+1 # 0 # # 0 # 0 1 1
+# b # # 0 # b 1 1 b
+b 2 2 b 1 1 1 0 1 #
+1 2 b 3 # b 1 # b #
+1 b 3 b # # # # # #
+puzzle solved.
+total steps: 21
+execution time: 2.058016300201416
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+0 # # # # # # # # b
+# 1 b 2 b 1 1 b 2 1
+b 1 2 0 # 1 # # b #
+2 # b 1 # b # # 3 b
+b # # # # 1 # # b #
+1 # 0 # # 0 # 0 1 1
+# b # # 0 # b 1 1 b
+b 2 2 b 1 1 1 0 1 #
+1 2 b 3 # b 1 # b #
+1 b 3 b # # # # # #
+puzzle solved.
+total steps: 21
+execution time: 1.6619713306427002
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+0 # # # # # # # # b
+# 1 b 2 b 1 1 b 2 1
+b 1 2 0 # 1 # # b #
+2 # b 1 # b # # 3 b
+b # # # # 1 # # b #
+1 # 0 # # 0 # 0 1 1
+# b # # 0 # b 1 1 b
+b 2 2 b 1 1 1 0 1 #
+1 2 b 3 # b 1 # b #
+1 b 3 b # # # # # #
+puzzle solved.
+total steps: 59
+execution time: 1.9532017707824707
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+0 # # # # # # # # b
+# 1 b 2 b 1 1 b 2 1
+b 1 2 0 # 1 # # b #
+2 # b 1 # b # # 3 b
+b # # # # 1 # # b #
+1 # 0 # # 0 # 0 1 1
+# b # # 0 # b 1 1 b
+b 2 2 b 1 1 1 0 1 #
+1 2 b 3 # b 1 # b #
+1 b 3 b # # # # # #
+puzzle solved.
+total steps: 21
+execution time: 1.7492306232452393
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+execution time: 60.223092555999756
+timeout
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+execution time: 60.191720962524414
+timeout
+
+/*********************
+fc.solvePuzzle
+*********************/
+# b # # # 1 b # 0 0 # #
+# 1 # # b # 2 b # # # #
+# # # b 4 b # 1 0 1 b #
+b 3 b 3 b 2 # # 0 # 3 b
+2 b 2 # 1 # # # # # b 2
+# 2 1 b 2 # # b # # 2 0
+# b # 2 b 2 b # 0 # b #
+# # b # 1 # # # # b 4 b
+b # 2 b # 1 # # 0 3 b 3
+1 0 1 1 # b # 0 # b 4 b
+# 1 b 2 # # # # b 4 b 2
+b 1 # b 1 # # b 3 b # #
+puzzle solved.
+total steps: 35
+execution time: 1.7611496448516846
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+# b # # # 1 b # 0 0 # #
+# 1 # # b # 2 b # # # #
+# # # b 4 b # 1 0 1 b #
+b 3 b 3 b 2 # # 0 # 3 b
+2 b 2 # 1 # # # # # b 2
+# 2 1 b 2 # # b # # 2 0
+# b # 2 b 2 b # 0 # b #
+# # b # 1 # # # # b 4 b
+b # 2 b # 1 # # 0 3 b 3
+1 0 1 1 # b # 0 # b 4 b
+# 1 b 2 # # # # b 4 b 2
+b 1 # b 1 # # b 3 b # #
+puzzle solved.
+total steps: 35
+execution time: 2.08583927154541
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+execution time: 60.23845100402832
+timeout
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+# b # # # 1 b # 0 0 # #
+# 1 # # b # 2 b # # # #
+# # # b 4 b # 1 0 1 b #
+b 3 b 3 b 2 # # 0 # 3 b
+2 b 2 # 1 # # # # # b 2
+# 2 1 b 2 # # b # # 2 0
+# b # 2 b 2 b # 0 # b #
+# # b # 1 # # # # b 4 b
+b # 2 b # 1 # # 0 3 b 3
+1 0 1 1 # b # 0 # b 4 b
+# 1 b 2 # # # # b 4 b 2
+b 1 # b 1 # # b 3 b # #
+puzzle solved.
+total steps: 35
+execution time: 2.1426620483398438
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+execution time: 60.22185134887695
+timeout
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+execution time: 60.21463346481323
+timeout
+
+/*********************
+fc.solvePuzzle
+*********************/
+b 2 b # # # 1 b # 0 # # b #
+1 # # b 1 # # # # 1 b # 2 b
+# b 2 1 0 # b 2 # 0 1 # # #
+b 3 b # 0 # # b # # # # # #
+2 # # # 1 b 2 # b 2 b # # #
+b # 2 b # 3 b 1 2 0 2 # # 0
+# # b 2 2 b 3 # b 3 b # # #
+2 b 2 # b 4 b 2 # b 3 b # #
+b 3 # b 3 b 3 b 1 2 # 2 b #
+# b # # # # # 1 2 b # # # #
+0 # # # # # # # b 3 b 2 0 #
+# # b # # 0 # b 3 # # b # #
+b 1 2 # # # # # b 2 # 1 # b
+# # b # 1 b 1 # # b # 1 b #
+puzzle solved.
+total steps: 46
+execution time: 1.890272617340088
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+b 2 b # # # 1 b # 0 # # b #
+1 # # b 1 # # # # 1 b # 2 b
+# b 2 1 0 # b 2 # 0 1 # # #
+b 3 b # 0 # # b # # # # # #
+2 # # # 1 b 2 # b 2 b # # #
+b # 2 b # 3 b 1 2 0 2 # # 0
+# # b 2 2 b 3 # b 3 b # # #
+2 b 2 # b 4 b 2 # b 3 b # #
+b 3 # b 3 b 3 b 1 2 # 2 b #
+# b # # # # # 1 2 b # # # #
+0 # # # # # # # b 3 b 2 0 #
+# # b # # 0 # b 3 # # b # #
+b 1 2 # # # # # b 2 # 1 # b
+# # b # 1 b 1 # # b # 1 b #
+puzzle solved.
+total steps: 46
+execution time: 1.86956787109375
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+execution time: 60.21515417098999
+timeout
+
+/*********************
+fc_H3.solvePuzzle
+*********************/
+b 2 b # # # 1 b # 0 # # b #
+1 # # b 1 # # # # 1 b # 2 b
+# b 2 1 0 # b 2 # 0 1 # # #
+b 3 b # 0 # # b # # # # # #
+2 # # # 1 b 2 # b 2 b # # #
+b # 2 b # 3 b 1 2 0 2 # # 0
+# # b 2 2 b 3 # b 3 b # # #
+2 b 2 # b 4 b 2 # b 3 b # #
+b 3 # b 3 b 3 b 1 2 # 2 b #
+# b # # # # # 1 2 b # # # #
+0 # # # # # # # b 3 b 2 0 #
+# # b # # 0 # b 3 # # b # #
+b 1 2 # # # # # b 2 # 1 # b
+# # b # 1 b 1 # # b # 1 b #
+puzzle solved.
+total steps: 50
+execution time: 2.384597063064575
+
+/*********************
+backtrack.solvePuzzle
+*********************/
+execution time: 60.23213171958923
+timeout
+
+/*********************
+backtrack_H2.solvePuzzle
+*********************/
+execution time: 60.186856508255005
+timeout
+
+/*********************
+fc.solvePuzzle
+*********************/
+execution time: 60.21937155723572
+timeout
+
+/*********************
+fc_H1.solvePuzzle
+*********************/
+0 # b # 1 # 1 b 2 b # 2 b # # #
+# # # # b # # # 0 1 # b # # # #
+b 1 # # # # b # # # 0 1 # # b #
+# # # b # # # 1 1 b # # # # 1 #
+# b # 1 0 # # b # # # # # # # #
+# # 0 # 2 b 1 # 0 # # b 2 b # #
+# 0 1 # b # # # 1 # # # # # b #
+1 # b # 1 # 1 # b 3 b # 0 0 1 #
+b # 1 # # # b # 3 b 3 # 0 # # b
+# b 2 b # # 1 2 b 3 b # # # # 2
+1 # 1 # b 2 # b # # # 0 # # # b
+b 2 b 2 # b # 2 # # # # b 3 b #
+2 0 # b # # 2 b # 1 # # # b # 1
+b 2 # # # # b 3 1 b # # # 1 # b
+3 b # 0 0 # # b # # # 0 # # # #
+b # # # # # # # # # # # 1 b # #
+puzzle solved.
+total steps: 48
+execution time: 2.170930862426758
+
+/*********************
+fc_H2.solvePuzzle
+*********************/
+
+Process finished with exit code -1

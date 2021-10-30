@@ -1,0 +1,37 @@
+f0: standard forward checking algorithm
+
+f1: forward checking with most-constrained heuristic
+
+f2: forward checking with most-constraining heuristic
+
+f3: forward checking with H1 and H2 heuristic
+
+b0: standard backtracking algorithm
+
+b2: backtracking with most-constraining heuristic
+
+
+1.
+            f0      f1      f2      f3      b0      b2
+6*6         9       9       12      9       6697    1660
+
+8*8         19      19      34      19      timeout timeout
+
+10*10       21      21      59      21      timeout timeout
+
+
+2.
+            f0      f1      f2      f3      b0      b2
+12          timeout timeout timeout 17      timeout timeout
+
+24          74      timeout timeout timeout timeout timeout
+
+48          39      39      timeout 39      timeout timeout
+
+From the results, we can conclude that the forward checking algorithm performs significantly better
+than the backtracking algorithm. As we mentioned in README, b1 is not available and b3 is the same as
+b2. Backtrack algorithm can only get solution for 6*6 puzzle. When the forward checking algorithm is used,
+the number of nodes visited are the same except f2. f2 is sightly slower than other three algorithms. When
+the number of walls increases, the number of nodes visited will decrease for forward checking algorithm. Since
+most of time the backtrack algorithm cannot get solution, we only compare them at 6*6 puzzle. Forward checking
+algorithm visits 441.22% less nodes than backtrack algorithm.
