@@ -1,4 +1,14 @@
-# Artificial Intelligence_A1
+Akari Puzzle
+
+Light-up puzzles (also known as Akari) are grid puzzles developed by the company Nikoli first introduced in 2001.
+
+Each puzzle consists of a rectangular area (nxn) which includes areas denoted with “_” and walls denoted with number between 0-4. The objective is to place light bulbs, denoted with “b” on the grid so that every area is lit. Walls in the puzzle block the light from the light bulbs. Some of the walls include a hint with the number of light bulbs in horizontally or/and vertically adjacent areas. The goal of the puzzle is given in such a way that: 
+
+a cell is illuminated by a light bulb if they're in the same row or column
+there are no “dark” area between them
+no light bulb may illuminate another light bulb
+each wall shows a required bulb(s) which indicates the number of light bulbs horizontally or/and vertically adjacent to that wall, from 0 to 4. Also remember that any wall will block light in the horizontal or vertical direction.
+
 
 COMP 4190
 Artificial Intelligenc
