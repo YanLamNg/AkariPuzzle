@@ -9,18 +9,12 @@ there are no “dark” area between them
 no light bulb may illuminate another light bulb
 each wall shows a required bulb(s) which indicates the number of light bulbs horizontally or/and vertically adjacent to that wall, from 0 to 4. Also remember that any wall will block light in the horizontal or vertical direction.
 
-
-COMP 4190
-Artificial Intelligenc
-Assignment 1
-
 Authors:
 
 Xiaojian Xie 7821950
 
 YanLam Ng 7775665
 
-Group: 9
 
 To run the program simply run the python code either for ForwardChecking.py or backtracking.py. 
 If you want to test with heuristic, run the code which the file name format is <algorithm_Hn>. 
